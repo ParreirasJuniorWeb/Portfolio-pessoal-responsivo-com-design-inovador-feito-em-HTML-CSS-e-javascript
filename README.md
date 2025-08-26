@@ -28,24 +28,24 @@ Este é um portfólio pessoal responsivo com um design moderno e inovador, desen
 # 🛠️ Como Executar o Projeto Localmente
 Para rodar este projeto em sua máquina, siga os passos abaixo:
 
-1. # Clone o repositório:
+1. **Clone o repositório**:
 
-2. # Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto**:
 
-3. # Abra os arquivos no seu navegador:
+3. **Abra os arquivos no seu navegador**:
 Basta abrir o arquivo `portfolio.html` no seu navegador de preferência. Você pode fazer isso diretamente do explorador de arquivos ou usando uma extensão como o `Live Server` no VS Code.
 
-# Configuração do Servidor para Envio de E-mail (Opcional)
+**Configuração do Servidor para Envio de E-mail (Opcional)**
 Se você quiser que o formulário de contato funcione, você precisará configurar o servidor backend.
 
-1. # Instale as dependências do Node.js:
+1. **Instale as dependências do Node.js**:
 
-2. # Crie o arquivo .env:
+2. **Crie o arquivo .env**:
 Crie um arquivo chamado `.env` na pasta `backend` e configure suas credenciais de e-mail.
 
 ⚠️ **Importante**: Use uma **senha de aplicativo** (App Password) gerada no Google, em vez da senha principal da sua conta, para maior segurança.
 
-3. # Inicie o servidor:
+3. **Inicie o servidor**:
 
 O servidor será iniciado na porta 5000.
 
